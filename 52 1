@@ -1,0 +1,14 @@
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [DEBUG] (ContractProductDemandAmoutUpdateTasklet:53 ) ContractProductDemandAmoutUpdateTasklet execute
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [WARN ] (ContractProductDemandAmoutUpdateTasklet:57 ) paramDate 20120101 memberNonull
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (ContractProductDemandAmoutUpdateTasklet:70 ) getAttribute  contractProductDemandMinSequence : null contractProductDemandMaxSequence :null pageSize : 5000
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (resultsettable                     :108) |---------------------------------|---------------------------------|
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (resultsettable                     :108) |contractProductDemandMinSequence |contractProductDemandMaxSequence |
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (resultsettable                     :108) |---------------------------------|---------------------------------|
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (resultsettable                     :108) |1                                |1235                             |
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (resultsettable                     :108) |---------------------------------|---------------------------------|
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [DEBUG] (ContractProductDemandAmoutUpdateTasklet:53 ) ContractProductDemandAmoutUpdateTasklet execute
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [WARN ] (ContractProductDemandAmoutUpdateTasklet:57 ) paramDate 20120101 memberNonull
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (ContractProductDemandAmoutUpdateTasklet:70 ) getAttribute  contractProductDemandMinSequence : 5002 contractProductDemandMaxSequence :1235 pageSize : 5000
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step5(52)] [INFO ] (ContractProductDemandAmoutUpdateTasklet:92 ) ContractProductDemandAmoutUpdateTasklet FINISH

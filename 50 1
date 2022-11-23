@@ -1,0 +1,6 @@
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step3(50)] [DEBUG] (DemandDetailValidationCheckItemWriter:89 ) ############## beforeStep ########### : contractProductDemandCreateEveryDayJob.step3
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step3(50)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step3(50)] [INFO ] (resultsettable                     :108) |---------------|---------------------|
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step3(50)] [INFO ] (resultsettable                     :108) |demandTypeCode |demandTypeDetailCode |
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step3(50)] [INFO ] (resultsettable                     :108) |---------------|---------------------|
+2022-11-23 15:08:07 [thread_id=1 thread_name=main step3(50)] [INFO ] (resultsettable                     :108) |---------------|---------------------|

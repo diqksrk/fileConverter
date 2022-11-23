@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%-5p] [thread_id=%tid] (%-35c{1}:%-3L) %msg%n" />
+        </Console>
+        <File name="file" fileName="${threadContext:fileName}" append="false">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%-5p] [thread_id=%tid] (%-35c{1}:%-3L) %msg%n" />
+        </File>
+
+        <Routing name="Routing">
+            <Routes pattern="$${threadContext:fileName}">
+                <Route>
+                    <RollingFile name="logFile-${threadContext:fileName}"
+                                 fileName="${threadContext:fileName}"
+                                 filePattern="${threadContext:fileName}">
+                        <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [thread_id=%tid thread_name=%tn] [%-5p] (%-35c{1}:%-3L) %msg%n" />
+                        <Policies>
+                            <SizeBasedTriggeringPolicy size="50 MB" />
+                        </Policies>
+                        <DefaultRolloverStrategy max="100" />
+                    </RollingFile>
+                </Route>
+            </Routes>
+        </Routing>
+        <Async name="async" bufferSize="1000" includeLocation="true">
+            <AppenderRef ref="Routing" />
+        </Async>
+
+    </Appenders>
+    <Loggers>
+        <Root level="INFO" additivity="false">
+            <AppenderRef ref="console" />
+            <AppenderRef ref="async" />
+        </Root>
+    </Loggers>
+</Configuration>

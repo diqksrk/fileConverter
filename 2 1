@@ -1,0 +1,16 @@
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [DEBUG] (ExchangeRateCheckTasklet           :57 ) paramDate > 201201
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |--------|------------------|----------------|------------|
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |dmnd_ym |from_pay_crncy_cd |to_pay_crncy_cd |crncy_amt   |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |--------|------------------|----------------|------------|
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |KRW               |USD             |8.644E-4    |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |KRW               |JPY             |0.105658    |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |USD               |JPY             |136.6052089 |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |USD               |KRW             |1292.9      |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |JPY               |KRW             |9.4645      |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |JPY               |USD             |0.0073204   |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |KRW               |KRW             |1.0         |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |USD               |USD             |1.0         |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |201201  |JPY               |JPY             |1.0         |
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [INFO ] (resultsettable                     :108) |--------|------------------|----------------|------------|
+2022-11-23 15:07:57 [thread_id=1 thread_name=main step1(2)] [DEBUG] (ExchangeRateCheckTasklet           :63 ) [com.ncloud.batch.billing.metering.model.Currency@14992832, com.ncloud.batch.billing.metering.model.Currency@746e187f, com.ncloud.batch.billing.metering.model.Currency@464735bf, com.ncloud.batch.billing.metering.model.Currency@6639aafc, com.ncloud.batch.billing.metering.model.Currency@3b3cc6b1, com.ncloud.batch.billing.metering.model.Currency@3f159c49, com.ncloud.batch.billing.metering.model.Currency@4080bcd9, com.ncloud.batch.billing.metering.model.Currency@6b45907f, com.ncloud.batch.billing.metering.model.Currency@3611cae8]

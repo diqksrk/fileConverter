@@ -1,0 +1,683 @@
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |-------|--------|--------------|--------|--------|-------------|-----------------|-------|
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |mbr_no |ctrt_no |ctrt_prod_seq |dmnd_ym |fees_no |dmnd_type_cd |dmnd_type_dtl_cd |rgn_no |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |-------|--------|--------------|--------|--------|-------------|-----------------|-------|
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |18801   |GTM          |GTM_QUERY        |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |802     |AGSM         |APINW            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |802     |AGSM         |APINW            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2003    |ASSM         |ASSZ             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |3202    |BKSUM        |BKDSZ            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |3202    |BKSUM        |BKDSZ            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |3201    |BKSUM        |BKSZ             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |3201    |BKSUM        |BKSZ             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |7201    |CLASM        |CLASZ            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |7205    |CLASM        |CLASZ            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |15601   |GCNSM        |CNDNM            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |26802   |NATSM        |NATNW            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2001    |NTISM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28010   |NTISM        |FSNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28020   |NTISM        |OSNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2002    |NTOSM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2002    |NTOSM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2002    |NTOSM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2002    |NTOSM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2002    |NTOSM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2002    |NTOSM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2002    |NTOSM        |ASNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28009   |NTOSM        |FSNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28019   |NTOSM        |OSNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28019   |NTOSM        |OSNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28019   |NTOSM        |OSNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28019   |NTOSM        |OSNTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |30003   |OSSM         |OSSZ             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |30007   |OSSM         |OSSZ_MULTI       |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |30007   |OSSM         |OSSZ_MULTI       |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1000   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1000   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1000   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1001   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1001   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1001   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1002   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1002   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1002   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1003   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1003   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1003   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1004   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1004   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1004   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1005   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1005   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1005   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2000   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2000   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2000   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2001   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2001   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2001   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2002   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2002   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2002   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2003   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2003   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2003   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2004   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2004   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2004   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2005   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2005   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2005   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2006   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2006   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2006   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2007   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2007   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2007   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2008   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2008   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2008   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2009   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2009   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2009   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2010   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2010   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2010   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2011   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2011   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2011   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2012   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2012   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2012   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2013   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2013   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2013   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2014   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2014   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2014   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2015   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2015   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2015   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3000   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3000   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3000   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3001   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3001   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3001   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3002   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3002   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3002   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3003   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3003   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3003   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3004   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3004   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3004   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3005   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3005   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3005   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9000   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9000   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9000   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9001   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9001   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9001   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9002   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9002   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9002   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9003   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9003   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9003   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9005   |[null]  |[null]        |201201  |28004   |NTISM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9005   |[null]  |[null]        |201201  |28006   |NTISM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9005   |[null]  |[null]        |201201  |28005   |NTOSM        |PIDRM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1004   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1004   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |1005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2004   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |803     |AGSM         |APICH            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6801    |CBTSM        |BDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6801    |CBTSM        |BDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6802    |CBTSM        |BDR              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6802    |CBTSM        |BDR              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6843    |CBTSM        |CDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6843    |CBTSM        |CDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6844    |CBTSM        |CDR              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6823    |CBTSM        |EDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6823    |CBTSM        |EDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6833    |CBTSM        |EDGB             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6833    |CBTSM        |EDGB             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6834    |CBTSM        |EDGR             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6824    |CBTSM        |EDR              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6803    |CBTSM        |SDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6803    |CBTSM        |SDB              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6813    |CBTSM        |SDGB             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6813    |CBTSM        |SDGB             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6814    |CBTSM        |SDGR             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6804    |CBTSM        |SDR              |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |801     |AGSM         |APICL            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |801     |AGSM         |APICL            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34801   |SCBSM        |2C4M             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2402    |ASCCK        |ASCCK            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34801   |SCBSM        |2C4M             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |2403    |ASCCK        |ASCCK            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34804   |SCBSM        |2C4M             |11     |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6002    |CF           |CFMNT            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34804   |SCBSM        |2C4M             |11     |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |7203    |CLASM        |CLA_KEYWORD      |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34802   |SCBSM        |4C8M             |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |7203    |CLASM        |CLA_KEYWORD      |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34805   |SCBSM        |4C8M             |11     |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |7207    |CLASM        |CLA_KEYWORD      |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34803   |SCBSM        |8C16M            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |7207    |CLASM        |CLA_KEYWORD      |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |34806   |SCBSM        |8C16M            |11     |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9208    |CLOCR        |ADAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44804   |VTCSM        |VTCAD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9208    |CLOCR        |ADAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44802   |VTCSM        |VTCHD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9208    |CLOCR        |ADAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44802   |VTCSM        |VTCHD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9203    |CLOCR        |BSAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44803   |VTCSM        |VTCSD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9203    |CLOCR        |BSAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44803   |VTCSM        |VTCSD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9203    |CLOCR        |BSAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44801   |VTCSM        |VTCUD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9205    |CLOCR        |FRAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9205    |CLOCR        |FRAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9205    |CLOCR        |FRAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44801   |VTCSM        |VTCUD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9201    |CLOCR        |GNAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9214    |CLOCR        |PAAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9210    |CLOCR        |PBAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9210    |CLOCR        |PBAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9210    |CLOCR        |PBAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9215    |CLOCR        |RECPT_BASIC_API  |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9215    |CLOCR        |RECPT_BASIC_API  |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9206    |CLOCR        |STAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9206    |CLOCR        |STAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9206    |CLOCR        |STAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9211    |CLOCR        |TABLE_EXRT_API   |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9211    |CLOCR        |TABLE_EXRT_API   |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10002   |CWSUM        |CWBMT            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10004   |CWSUM        |CWCMT            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10001   |CWSUM        |CWDBD            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10008   |CWSUM        |CWEML            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10003   |CWSUM        |CWEMT            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10007   |CWSUM        |CWRUL            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |14801   |EMAIL        |EMAIL            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |16001   |GDNS         |DNSZE            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |16801   |GEOSM        |GEOLC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |16801   |GEOSM        |GEOLC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |16801   |GEOSM        |GEOLC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |44804   |VTCSM        |VTCAD            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9201    |CLOCR        |GNAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9201    |CLOCR        |GNAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9214    |CLOCR        |PAAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |9214    |CLOCR        |PAAPI            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |22401   |KMSSM        |KMSKE            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |29205   |NTFSM        |FRNDT            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |29206   |NTFSM        |FRNDTI           |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |29207   |NTFSM        |FRNDTW           |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |31202   |PCASM        |CTCNT            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |31604   |PPTSM        |PPMIL            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |31604   |PPTSM        |PPMIL            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |31602   |PPTSM        |PPSMS            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |31602   |PPTSM        |PPSMS            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |31601   |PPTSM        |PPSPN            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |31601   |PPTSM        |PPSPN            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |35201   |SCCOM        |SCCAU            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |35201   |SCCOM        |SCCAU            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |35204   |SCCOM        |SCCAU            |11     |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |35204   |SCCOM        |SCCAU            |11     |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37201   |SFSUM        |SFURL            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37201   |SFSUM        |SFURL            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37201   |SFSUM        |SFURL            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37201   |SFSUM        |SFURL            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37601   |SSCSM        |OSRQ             |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37601   |SSCSM        |OSRQ             |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37601   |SSCSM        |OSRQ             |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37601   |SSCSM        |OSRQ             |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37602   |SSCSM        |WASRQ            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6001    |CF           |CFREQ            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37602   |SSCSM        |WASRQ            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37602   |SSCSM        |WASRQ            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |6001    |CF           |CFREQ            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |37602   |SSCSM        |WASRQ            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10005   |CWSUM        |CWRED            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |48403   |WSSUM        |SCNA             |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |10006   |CWSUM        |CWWRT            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |48401   |WSSUM        |VIR              |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |48401   |WSSUM        |VIR              |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |48405   |WSSUM        |WMS_WEBHOOK      |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |16801   |GEOSM        |GEOLC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |15202   |FSFSM        |FSFRQ            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |16801   |GEOSM        |GEOLC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |16801   |GEOSM        |GEOLC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |18801   |GTM          |GTM_QUERY        |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |20801   |IMGSM        |IMCNT            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |20801   |IMGSM        |IMCNT            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |20801   |IMGSM        |IMCNT            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |20801   |IMGSM        |IMCNT            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |8802    |IOTSM        |CIMSG            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |22402   |KMSSM        |KMSRC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |22402   |KMSSM        |KMSRC            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |30404   |OAPSM        |CVBST            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |30408   |OAPSM        |CVPPT            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |100    |[null]  |[null]        |201201  |30406   |OAPSM        |CVPRT            |0      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2004   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2006   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2006   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2007   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2007   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2008   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2008   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2009   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2009   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2010   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2010   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2011   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2011   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2012   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2012   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2013   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2013   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2014   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2014   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2015   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |2015   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3004   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3004   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |3005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |4001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9000   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9001   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9002   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9003   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |9005   |[null]  |[null]        |201201  |28003   |NTOSM        |ITSTM            |1      |
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (resultsettable                     :108) |-------|--------|--------------|--------|--------|-------------|-----------------|-------|
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:08 [thread_id=1 thread_name=main step8(55)] [INFO ] (sqlonly                            :114) SQL:

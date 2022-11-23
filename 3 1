@@ -1,0 +1,137 @@
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:57 ) paramDate > 201201
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:58 ) memberNo > null
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |dmnd_ym |cmpl_ymdt               |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |201201  |2022-11-02 17:51:05.083 |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(ctrt_prod_dmnd_seq) |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0                         |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |423      |
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:58 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:57 ) paramDate > 201201
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:58 ) memberNo > null
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |dmnd_ym |cmpl_ymdt               |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |201201  |2022-11-02 17:51:05.083 |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(ctrt_prod_dmnd_seq) |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0                         |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |16       |
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:07:59 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:57 ) paramDate > 201201
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:58 ) memberNo > null
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |dmnd_ym |cmpl_ymdt               |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |201201  |2022-11-02 17:51:05.083 |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(ctrt_prod_dmnd_seq) |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0                         |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |11       |
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:00 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:57 ) paramDate > 201201
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [DEBUG] (ContractProductDemandDeletionTasklet:58 ) memberNo > null
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |dmnd_ym |cmpl_ymdt               |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |201201  |2022-11-02 17:51:05.083 |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------|------------------------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(ctrt_prod_dmnd_seq) |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0                         |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |--------------------------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (sqlonly                            :114) SQL:
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |count(*) |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |0        |
+2022-11-23 15:08:01 [thread_id=1 thread_name=main step2(3)] [INFO ] (resultsettable                     :108) |---------|
