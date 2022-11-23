@@ -24,7 +24,15 @@ public class FileCreator {
     private LineReader lineReader;
 
     private int count = 0;
+    private int outputBufferTargetNumber = 1;
 
+
+
+    private int stepAfterPartitionCount = 0;
+
+
+    Map<String, Boolean> jobMap = new HashMap<>();
+    Map<String, Boolean> partitionHashMap = new HashMap<>();
     Map<String, BufferedOutputStream> bufferdHashMap = new HashMap<>();
 
     public FileCreator(LineReader lineReader) {
@@ -50,14 +58,17 @@ public class FileCreator {
     }
 
     private void createLogPerFile(String path) throws IOException {
-        String stepId; String threadId;
+        String stepName; String threadId;
         String line;
 
         while ((line = bufferedReader.readLine()) != null) {
-            stepId = lineReader.getStepId(line);
-            threadId = lineReader.getThreadId(line);
+            threadId = lineReader.getThreadId(line).trim();
+            stepName = lineReader.getStepName(line).trim();
 
-            BufferedOutputStream bufferedOutputStream = getBufferedOutputStream(getTargetPath(stepId, threadId, path));
+
+            BufferedOutputStream bufferedOutputStream = getTempTargetPath(threadId, stepName, path);
+//
+//            BufferedOutputStream bufferedOutputStream = getBufferedOutputStream(getTargetPath(stepId, threadId, path));
             FileWriter.writeLine(line, bufferedOutputStream);
         }
 
@@ -65,20 +76,127 @@ public class FileCreator {
         bufferFlush();
     }
 
-    private BufferedOutputStream getBufferedOutputStream(String targetPath) throws FileNotFoundException {
+    private BufferedOutputStream getTempTargetPath(String threadId, String stepName, String path) throws FileNotFoundException {
+        String threadIdAndStepName;
         BufferedOutputStream bufferedOutputStream;
 
-        if (bufferdHashMap.get(targetPath) == null) {
-            logger.info("CreateFile = " + targetPath);
-            count++;
-            bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(targetPath, true));
-            bufferdHashMap.put(targetPath, bufferedOutputStream);
-        } else {
-            bufferedOutputStream = bufferdHashMap.get(targetPath);
+        if (StringUtils.isBlank(stepName) && StringUtils.isBlank(threadId)) {
+
+
+
+            threadIdAndStepName = lineReader.getPrevTargetPath();
+
+
+
+
+            if (bufferdHashMap.get(threadIdAndStepName) == null) {
+                bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(path + String.valueOf(outputBufferTargetNumber++), true));
+                bufferdHashMap.put(threadIdAndStepName, bufferedOutputStream);
+            } else {
+                bufferedOutputStream = bufferdHashMap.get(threadIdAndStepName);
+            }
+
+        } else if (!lineReader.isAfterStepZone()) {
+
+            threadIdAndStepName = threadId;
+
+            if (bufferdHashMap.get(threadIdAndStepName) == null) {
+                bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(path + String.valueOf(outputBufferTargetNumber++), true));
+                bufferdHashMap.put(threadIdAndStepName, bufferedOutputStream);
+            } else {
+                bufferedOutputStream = bufferdHashMap.get(threadIdAndStepName);
+            }
+
+
+        } else if (!lineReader.isAfterPartitionZone()) {
+
+            threadIdAndStepName = threadId + " " + stepName;
+
+            if (bufferdHashMap.get(threadIdAndStepName) == null) {
+                bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(path + String.valueOf(outputBufferTargetNumber++), true));
+                bufferdHashMap.put(threadIdAndStepName, bufferedOutputStream);
+            } else {
+                bufferedOutputStream = bufferdHashMap.get(threadIdAndStepName);
+            }
+
+        } else if (lineReader.isAfterPartitionZone() && !StringUtils.isBlank(stepName) && stepName.indexOf("partition") == -1) {
+
+            threadIdAndStepName = threadId + " " + stepName;
+
+            if (partitionHashMap.get(threadIdAndStepName) == null) {
+
+
+                partitionHashMap.put(threadIdAndStepName, true);
+                bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(path + String.valueOf(outputBufferTargetNumber++), true));
+
+                lineReader.setReadAndThreadId(String.valueOf(outputBufferTargetNumber));
+
+                bufferdHashMap.put(threadIdAndStepName + outputBufferTargetNumber, bufferedOutputStream);
+
+
+            } else {
+                bufferedOutputStream = bufferdHashMap.get(threadIdAndStepName);
+            }
+
+
+
+        } else if (lineReader.isAfterPartitionZone() && !StringUtils.isBlank(stepName) && stepName.indexOf("partition") != -1) {
+
+            threadIdAndStepName = threadId + " " + stepName;
+
+            if (bufferdHashMap.get(threadIdAndStepName) == null) {
+                bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(path + String.valueOf(outputBufferTargetNumber++), true));
+                bufferdHashMap.put(threadIdAndStepName, bufferedOutputStream);
+            } else {
+                bufferedOutputStream = bufferdHashMap.get(threadIdAndStepName);
+            }
         }
+
+
+
+         else {
+
+            threadIdAndStepName = threadId + " " + stepName;
+
+            if (jobMap.get(threadIdAndStepName) == null) {
+                jobMap.put(threadIdAndStepName, true);
+                bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(path + String.valueOf(outputBufferTargetNumber++), true));
+
+                lineReader.setReadAndThreadId(String.valueOf(outputBufferTargetNumber));
+
+                bufferdHashMap.put(threadIdAndStepName + outputBufferTargetNumber, bufferedOutputStream);
+            } else {
+                bufferedOutputStream = bufferdHashMap.get(threadIdAndStepName);
+            }
+
+
+        }
+
+
 
         return bufferedOutputStream;
     }
+
+
+
+
+
+
+
+//    private BufferedOutputStream getBufferedOutputStream(String targetPath) throws FileNotFoundException {
+//        BufferedOutputStream bufferedOutputStream;
+//
+//        if (bufferdHashMap.get(targetPath) == null) {
+//            logger.info("CreateFile = " + targetPath);
+//            count++;
+//            bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(targetPath, true));
+//            bufferdHashMap.put(targetPath, bufferedOutputStream);
+//        } else {
+//            bufferedOutputStream = bufferdHashMap.get(targetPath);
+//        }
+//
+//        return bufferedOutputStream;
+//    }
 
     private void bufferFlush() throws IOException {
         for (BufferedOutputStream bufferedOutputStream : bufferdHashMap.values()) {

@@ -13,10 +13,10 @@ public class FileController {
         FileMerger fileMerger = new FileMerger();
         fileMerger.merge(path);
 
-        FileDeletor fileDeletor = new FileDeletor();
-        fileDeletor.delete(path);
-
-        FileUpdator fileUpdator = new FileUpdator();
-        fileUpdator.update(path);
+//        FileDeletor fileDeletor = new FileDeletor();
+//        fileDeletor.delete(path);
+//
+//        FileUpdator fileUpdator = new FileUpdator();
+//        fileUpdator.update(path);
     }
 }

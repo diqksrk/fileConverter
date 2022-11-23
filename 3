@@ -1,0 +1,71 @@
+        SELECT bllg_dmnd_seq, bllg_dmnd_no, bef_bllg_dmnd_seq, dmnd_no, pay_crncy_cd, dmnd_ym, mbr_no, bllg_dmnd_type_cd, crrt_rsn_cont, dmnd_amt, lst_bllg_dmnd_ymdt, bllg_dmnd_trx_sccs_yn, wrt_ymdt
+          FROM nt_bllg_dmnd
+         WHERE dmnd_ym = SUBSTRING('202207', 0, 6)
+         ORDER BY bllg_dmnd_seq FOR ORDERBY_NUM() BETWEEN 0+1
+           AND ((0+1) * 100)
+        DELETE
+          FROM nt_bllg_dmnd_trx_hist
+         WHERE bllg_dmnd_seq = '1098109'
+        DELETE /* deleteBillingDemandDetail */
+              
+          FROM nt_bllg_dmnd_dtl
+         WHERE bllg_dmnd_seq = '1098109'
+        DELETE /* deleteBillingDemandUnpaid */
+              
+          FROM nt_bllg_dmnd_upd
+         WHERE bllg_dmnd_seq = '1098109'
+        DELETE /* deleteBillingDemand */
+              
+          FROM nt_bllg_dmnd
+         WHERE bllg_dmnd_seq = '1098109'
+        DELETE
+          FROM nt_bllg_dmnd_trx_hist
+         WHERE bllg_dmnd_seq = '1098110'
+        DELETE /* deleteBillingDemandDetail */
+              
+          FROM nt_bllg_dmnd_dtl
+         WHERE bllg_dmnd_seq = '1098110'
+        DELETE /* deleteBillingDemandUnpaid */
+              
+          FROM nt_bllg_dmnd_upd
+         WHERE bllg_dmnd_seq = '1098110'
+        DELETE /* deleteBillingDemand */
+              
+          FROM nt_bllg_dmnd
+         WHERE bllg_dmnd_seq = '1098110'
+        DELETE
+          FROM nt_bllg_dmnd_trx_hist
+         WHERE bllg_dmnd_seq = '1098111'
+        DELETE /* deleteBillingDemandDetail */
+              
+          FROM nt_bllg_dmnd_dtl
+         WHERE bllg_dmnd_seq = '1098111'
+        DELETE /* deleteBillingDemandUnpaid */
+              
+          FROM nt_bllg_dmnd_upd
+         WHERE bllg_dmnd_seq = '1098111'
+        DELETE /* deleteBillingDemand */
+              
+          FROM nt_bllg_dmnd
+         WHERE bllg_dmnd_seq = '1098111'
+        DELETE
+          FROM nt_bllg_dmnd_trx_hist
+         WHERE bllg_dmnd_seq = '1098112'
+        DELETE /* deleteBillingDemandDetail */
+              
+          FROM nt_bllg_dmnd_dtl
+         WHERE bllg_dmnd_seq = '1098112'
+        DELETE /* deleteBillingDemandUnpaid */
+              
+          FROM nt_bllg_dmnd_upd
+         WHERE bllg_dmnd_seq = '1098112'
+        DELETE /* deleteBillingDemand */
+              
+          FROM nt_bllg_dmnd
+         WHERE bllg_dmnd_seq = '1098112'
+        /* selectDemandCountForBillingDemandRequest */
+               SELECT COUNT(*)
+          FROM nt_dmnd a , nt_mbr b
+         WHERE a.mbr_no = b.mbr_no
+           AND a.dmnd_ym = SUBSTRING('202207', 0, 6)
+           AND a.bllg_dmnd_yn = 'Y'

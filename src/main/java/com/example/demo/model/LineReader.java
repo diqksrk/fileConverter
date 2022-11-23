@@ -11,13 +11,18 @@ public class LineReader {
     private static final String FIRST_FILE_NAME_START_DELIMETER = "step";
     private static final String FIRST_FILE_NAME_END_DELIMETER = "]";
     private static final String EMPTY_STRING = "";
+    private static final String PARTITION = "partition";
 
     private String readStepId;
     private String readThreadId;
     private String readSequenceNumber;
 
 
-    public String getStepId(String line) {
+    private boolean stepFlag = false;
+    private boolean partitionFlag = false;
+
+
+    public String getStepName(String line) {
         // thread id값만 얻기 위해 length를 더한다. thread_id=1로 기록되어 있으면 1의 값만 얻는다.
         int stepIdStartIndex = line.indexOf( FIRST_FILE_NAME_START_DELIMETER );
         int stepIdEndIndex = line.indexOf( FIRST_FILE_NAME_END_DELIMETER, stepIdStartIndex);
@@ -26,7 +31,12 @@ public class LineReader {
             return EMPTY_STRING;
         }
 
-        return readStepId = line.substring(stepIdStartIndex + FIRST_FILE_NAME_START_DELIMETER.length(), stepIdEndIndex);
+        if (line.indexOf(PARTITION) != -1) {
+            this.partitionFlag = true;
+        }
+
+        this.stepFlag = true;
+        return readStepId = line.substring(stepIdStartIndex, stepIdEndIndex);
     }
 
     public String getThreadId(String line) {
@@ -59,14 +69,33 @@ public class LineReader {
     }
 
     public String getPrevTargetPath() {
-        if (StringUtils.isBlank(readStepId) && StringUtils.isBlank(readSequenceNumber)) {
+        if (StringUtils.isBlank(readStepId) && StringUtils.isBlank(readThreadId)) {
             return "1";
         }
 
         if ( StringUtils.isBlank(readStepId) ) {
-            return this.readThreadId + " " + getSequenceNumber();
+            return this.readThreadId;
         }
 
-        return this.getSequenceNumber() + " " + this.readThreadId;
+        return this.readThreadId + " " + this.readStepId;
+    }
+
+
+
+
+    public boolean isAfterStepZone() {
+        return this.stepFlag;
+    }
+
+    public boolean isAfterPartitionZone() {
+        return this.partitionFlag;
+    }
+
+
+
+
+
+    public void setReadAndThreadId(String out) {
+        this.readStepId = this.readStepId + out;
     }
 }

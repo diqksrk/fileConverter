@@ -11,20 +11,22 @@ public class DemoApplication {
 	private static Logger logger = LoggerFactory.getLogger(DemoApplication.class);
 
 	public static String makeJenkinsBuildPath(String[] args) {
-		StringBuffer stringLine = new StringBuffer();
+//		StringBuffer stringLine = new StringBuffer();
+//
+//		if (args.length > 0) {
+//			stringLine.append(args[0]);
+//		}
+//		if (args.length > 1) {
+//			stringLine.append(" ");
+//			stringLine.append(args[1]);
+//		}
+//		if (args.length > 2) {
+//			stringLine.append(" ");
+//			stringLine.append(args[2]);
+//		}
+//		return stringLine.toString();
 
-		if (args.length > 0) {
-			stringLine.append(args[0]);
-		}
-		if (args.length > 1) {
-			stringLine.append(" ");
-			stringLine.append(args[1]);
-		}
-		if (args.length > 2) {
-			stringLine.append(" ");
-			stringLine.append(args[2]);
-		}
-		return stringLine.toString();
+		return "C:/Users/diqks/Desktop/이거/";
 	}
 	public static void main(String[] args) throws IOException {
 		String targetPath = makeJenkinsBuildPath(args);

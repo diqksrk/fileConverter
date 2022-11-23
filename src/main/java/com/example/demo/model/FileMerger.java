@@ -19,7 +19,7 @@ public class FileMerger {
         String targetPath = path + defaultTargetFileName;
 
         File[] files = new File(path).listFiles();
-        Arrays.sort(files, new FileSortComparator());
+        Arrays.sort(files);
 
         try {
             bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(targetPath, true));
