@@ -32,7 +32,7 @@ npm run package
 ## Upgrade NCP UI Kit
 
 ## 설치 가이드
-
+```
 1. 해당 프로젝트는 14.* 버전의 노드와 호환하므로 해당 버전대의 nodejs를 설치합니다.
 2. 설치 후, 환경 세팅이 되어 있는지 확인해야 하므로 Command창으로 들어가 node -v 를 통해 nodejs버전을 확인합니다.
 3. 이후 node_modules(프로젝트가 참조하는 라이브러리가 위치하는 폴더)를 설치하기 위해, yarn install 명령어를 사용합니다.
